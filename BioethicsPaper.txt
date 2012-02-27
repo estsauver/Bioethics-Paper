@@ -1,4 +1,9 @@
+Earl St Sauver
+CHBE 62
+Kaplan
+Tufts University
 
+(For most current version of this paper, please see http://goo.gl/OIFgY , which will be updated as I continue to revise the paper. Please note case matters in the link.)
 
 In the status quo, pharmaceutical companies are using indiginous knowledge to great effect for pharmeceutical development with little renumeration for indiginous groups. Their is a large economic incentive to exploit the previous discoveries as nature has found many more solutions than organic chemists have. The value of the pharmaceuticals developed from indiginous knowledge has been estimated to be 43 Billion dollars, with further economic value coming from drastically accelerated pharmeceutical development in plant derivatives, estimated to be ~4X faster (Reid 2010, p. 80), with even small stakes in this large pie having substantial ramifications for communities. 
 Ethical and legal issues in partitioning the revenues resulting from the knowledge of indiginous peoples involves a broad range of issues from the patent systems difficulties assimilating traditional forms of knowledge and ownership, the difficulties small developing nations have regulating the actions of multinational corporations inside their borders, and the trade off between protecting the indiginous claims to property rights and the potentially great bennefits to society at large. 
@@ -14,7 +19,16 @@ While there are many opponents to biotechnology or bioprospecting period, these 
 
 Current Technological System
 
-Prior to the advent 
+Prior to many advances in synthetic chemistry, almost all medicines were derived from traditional biological routes. However, with the advances in organic chemistry many medicines began to be derived synthetically. In the 19XX's, there was however a resurgance of interest in the solutions to industrial problems provided by biological solutions. They possess a "tremendous chemical structure space unmatched by any other small molecule
+families" and "possess a range of biological activities thus remaining the best sources of drugs and drug leads, and serving as outstanding small molecule probes for dissecting fundamental biological processes"(Liu et al. 2012, p. 55). 
+
+It was found that biological sources provided the framework for "pharmaceuticals, agrochemicals, cosmetics, flavorings, fragrances, industrial enzymes, and other products from biodiversity" (Artuoso, 2002, p. 1355). Furthermore, there are further bennefits assosciated with traditional knowledge that may not diretly be assosciated with the production of a product. Traditional knowledge has also been used to guide the search for synthetic chemicals by using the starting knowledge of traditional peoples as a jumping off point. 
+The typical process of ethnopharmacology involves sending a small group of individuals, occasionally a person, who ahve some familiarity with the local culture and biological sampling and obtaining a large quantity of biological material and as much cultural knowledge as is possible. The biological material is collected and returned to a lab and is oftened screened for potential pharmaceutical or other industrial value on the basis of the cultural knowledge that has been aquired. This allows for a much more efficient screening than would otherwise be possible in the absence of this traditional knowledge. 
+
+Recently, the technological methods of screening biological products has improved substantially. The advent of molecular libraries prodcued by a systematic screening process to find new molecularly active compounds on the basis of their metabolites. (Liu et al. 2012 makes this a little unclear, need to follow up in sources cited. 2)
+
+
+
 -----------------------------------------------------------------------------------------------------------------
 
 Table of Pros and Cons
@@ -57,11 +71,19 @@ The interaction between the convention on biological diveristy and TRIPs has not
 are central to the feasibility of a prior informed consent system. A ((UN commisioned/university of the UN)) study indicates that in order for a certificate program to be successful it will require broad acceptance by nations, research groups, and indiginous groups which requires that the "system will need to be flexible, 
 cost effective and easy to implement" (Tobin et al. 2008), and the above limitations indicate this to be infeasible at the moment. In particular, the system must reassure industrial actors that the system will be easy to comply with and will not substantially restrict their abbility to research, even if they must share some of the profits. 
 
+A confounding factor is the sovereign claim to posession of IP derived from the biodiversity of its country, many of which have specific legislation regulating the development of commercial products from the biological resources of the nation. For example, the South African Biodiversity Act requires a permit for any bioprospecting with agreeements to share revenue derived from any bioprospecting or for any biological material to be exported for the same reason. (Mueller 2011, p. 396). These constraints add a further constraint within the system which must be considered when evaluating potential courses of policy.
 
+A forward approach
 
+Many possible appraoches are outlined in the literature. *(Specific sources will be updated when I'm able to grab my other computer. If you read this prior to seeing that my dear Writing TA, I apologize for being slow.)* Amoung the possibilities the most prominantly suggested are
 
+1) A joint patent requirement for products derived from TK, along with exceptions to patent literature.
 
-A confounding factor is the sovereign claim to posession of IP derived from the biodiversity of its country, many of which have specific legislation regulating the development of commercial products from the biological resources of the nation. For example, the South African Biodiversity Act requires a permit for any bioprospecting with agreeements to share revenue derived from any bioprospecting or for any biological material to be exported for the same reason. (Mueller 2011, p. 396). 
+and 
+
+2) A register system which is used to preserve the 
+
+Refferences
 
 15 Tex. Wesleyan L. Rev. 357. Retrieved from http://www.lexisnexis.com/hottopics/lnacademic   (NewCity 2009) http://goo.gl/kxscI
 
@@ -70,6 +92,10 @@ A confounding factor is the sovereign claim to posession of IP derived from the 
 34 Am. Indian L. Rev. 77. Retrieved from http://www.lexisnexis.com/hottopics/lnacademic (Reid 2010) http://goo.gl/rm2YF
 
 35 USCS § 102, UNITED STATES CODE SERVICE, Retrieved from http://www.lexisnexis.com/hottopics/lnacademic
+
+Artuso, A. (2002). Bioprospecting, benefit sharing, and biotechnological capacity building. World Development, 30(8):1355-1368.
+
+Liu, X., Bolla, K., Ashforth, E. J., Zhuo, Y., Gao, H., Huang, P., Stanley, S. A., Hung, D. T., and Zhang, L. (2012). Systematics-guided bioprospecting for bioactive microbial natural products. Antonie van Leeuwenhoek, 101(1):55-66.
 
 
 ( The search for a practical, feasible and cost effective system for certifying compliance with PIC and MAT, By Brendan Tobin, Geoff Burton, and Jose Carlos Fernandez-Ugalde (2008) http://goo.gl/HqQ8G)
