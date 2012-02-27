@@ -1,19 +1,65 @@
-SQUO
+
 
 In the status quo, pharmaceutical companies are using indiginous knowledge to great effect for pharmeceutical development with little renumeration for indiginous groups. Their is a large economic incentive to exploit the previous discoveries as nature has found many more solutions than organic chemists have. The value of the pharmaceuticals developed from indiginous knowledge has been estimated to be 43 Billion dollars, with further economic value coming from drastically accelerated pharmeceutical development in plant derivatives, estimated to be ~4X faster (Reid 2010, p. 80), with even small stakes in this large pie having substantial ramifications for communities. 
 Ethical and legal issues in partitioning the revenues resulting from the knowledge of indiginous peoples involves a broad range of issues from the patent systems difficulties assimilating traditional forms of knowledge and ownership, the difficulties small developing nations have regulating the actions of multinational corporations inside their borders, and the trade off between protecting the indiginous claims to property rights and the potentially great bennefits to society at large. 
-
+ 
 This paper will first consider the status quo handling of ethnopharmacology and then consider several possible alternatives that are suggested by relevant topic literature. 
 
-In the status quo, patents are typically not granted for traditional knowledge.The exact statutory requirements for receiving a patent are 
+Many assert that indiginous communities have a substantial claim to the wealth derived from the biological diversity they possess. These claims are often further substantiated by historical legacies of unfair treatment that many indiginous groups have received. Their claim to a right of possession of natural biological resources, in particular given how often their natural resources have been hijacked in the past seems very legitimate.
+
+At the same time, pharmaceutical companies point out that the window in which to observe and understand these natural organisms is dwindling. It is estimated that 15% of the earth's biodiversity will be eliminated by 2012 ((Scratch this, study too old, replace with newer study.)) This constant loss of biodiversity adds powerful ethical status to the search for new IP rooted in biological diversity beacuse this may be the only opportunity humans have. While it would clearly be preferable to reverse the trend of destruction of habitats and ecosystems, it seems unlikely that this will happen before widespread damnage to biological systems occurs. When paired with the incredibly high treatment value of drugs that could be derived from these plants, that there is a moral imperative seems clear. 
+In this context, the question largely becomes a question of how to best arbitrate between the rights of indiginous groups who possess traditional knowledge and the society at large, while persuing this knowledge while it is still possible to obtain.
+As such the scope of this paper is limited to ethical considerations that still permit the discovery of biotechnology. 
+While there are many opponents to biotechnology or bioprospecting period, these positions are based on considerations too broad to reflect cogently in a short paper. As such, the central questions become how to assign the intellectual property derived from bioprospecting while still ensuring the continued development of intelectual property. Understanding the conflicting ethical viewpoints requires both an understanding of the science and the current patent and intellectual property system. 
+
+Current Technological System
+
+Prior to the advent 
+-----------------------------------------------------------------------------------------------------------------
+
+Table of Pros and Cons
+
+Pros of Assigning IP jointly to Indiginous persons
+-Small diversions of profits from patents will have enormous impacts on developing indiginous communities. (Hurt 95 I think?)
+-Increases incentivies of indiginous groups and harboring nations to cooperate/facilitate drug development/discovery
+-Not immediately reconcilable with previous interpretation of patent law
+	-Ambiguities regarding what will be protectable IP likely to have chilling effect. 
+	-May create broad implications in the future for what constitutes patentable knowledge. 
+
+Cons of Assigning IP jointly to Indiginous persons
+-The value of a drug is often unclear, determining how much value is owed to indiginous peoples is difficult.
+-There's difficulty in assigning ownership to a particular group across many habitats/ecosystems in which an organism lives. 
+-Compensation bsed on intellectual property may be inconsistent with traditional norms surrounding property ownership. Any system based on IP may be unaccetable from an indiginous perspective. 
+
+-----------------------------------------------------------------------------------------------------------------
+
+Currently, most drugs that are developed without the aide of biological prospecting are protected by the patent system. The status quo bioprospecting landscape can be reasonably explained as an attempt to work the discovery of traditional knowledge around the patent system. In the status quo, patents are typically not granted for traditional knowledge.The exact statutory requirements for receiving a patent are 
 -Usefullness
 -Nonobviousness
 -Newnewss 
 -The "First to Invent" standard, which requires the actual inventor of the knowledge persue the patent. 
 (Reid 2010, p. 81). Traditional knowledge has difficulties has difficulties fitting into [[[ALL, SOME?]]] of these requirements. 
 
-Applying the newness standard inpatent law to traditional knowledges is difficult as often prior art is docuemnted oraly. Information documented in the oral tradition is typically not admissable as evidence, and the exact date of disclosure may be difficult to determine. (Newcity, 2009, p. 399). While in some jurisdictions the Oral tradition, such as those modeled after the European Patent Convention's approach, the oral tradition is only considered valid if previously recorded or if a stenographic recording of the speech is available. (NewCity, 2009, p. 400). In the U.S. Patent system, while establishing evidence of knowledge or use of information by US citizens is sufficient to render a patent invalid, these protections are not extended to citizens of other nations. (35 USCS § 102). 
-The "First to Invent" requirement in the United States further increases the difficulty of incorporation native knowledge rights in the Patent system. The person who is applying for a patent must be the inventor of the subject matter themselves. Since the traditional knowledge is typically aquired over a long period of time and many generations, most indiginous groups cannot meet the requirements of this patent. 
+Applying the newness standard inpatent law to traditional knowledges is difficult as often prior art is docuemnted oraly. Patents obtained by bioprospectors without the consent of the indiginous peoples who discovered this inforamation could be blocked if the "invention" that is composed of knowledge was known or used previously, or if a written account of the information existed prior to the patent. Information documented in the oral tradition is typically not admissable as evidence, and the exact date of disclosure may be difficult to determine. (Newcity, 2009, p. 399). While in some jurisdictions the Oral tradition, such as those modeled after the European Patent Convention's approach, the oral tradition is only considered valid if previously recorded or if a stenographic recording of the speech is available. (NewCity, 2009, p. 400). In the U.S. Patent system, while establishing evidence of knowledge or use of information by US citizens is sufficient to render a patent invalid, these protections are not extended to citizens of other nations. (35 USCS § 102). 
+The "First to Invent" requirement in the United States further increases the difficulty of incorporation native knowledge rights in the Patent system. The person who is applying for a patent must be the inventor of the subject matter themselves. Since the traditional knowledge is typically aquired over a long period of time and many generations, most indiginous groups cannot meet the requirements of this patent (Reid 2010, p. 83). One exception to the difficulties indiginous groups face in patenting drugs are plant patents which offer a reasonable way to protect the groups IP. If a group can show that they have substantially altered a plant so that its value to humans is substantially increased. If they can demonstrate that the plant has been substantially modififed through breeding or through some other artificial selection, which is often the case for many plants containing IP owned by indiginous peoples, it becomes possible for them to patent. 
+One further non-structural barrier to access to the patent system by indiginous groups is the lack of access to the funds required to protect their knowledge using IP. The patent process is a relatively arcanse process in the United States and patents typically need to be applied for in multiple national systems. (((HUrt I Believe.)))
+
+In contrast, once a drug has been developed substantially from its natural origins, courts have almost unanimously ruled that a drugs is patentable, with the standard in the U.S. being "anything under the sun made by man. (Insert Supreme court ruling).
+This enables the often substantial amount of effort that goes into developing a drug from its initial raw traditional form to a clinically tested drug to be protected. However, it also enables the patenting of traditional remedies after only minimal modification.
+
+
+While it is possible that the patent system could be changed to better protect traditional knowledge, modifications are constrained by the Trade Related Aspects of Intellectual Property Rights (TRIPS) agreement negotiated in 1994 and the Convention on Biological Diversity (CBD), although the CBD has not yet been ratified by the United States. TRIPS establishes limits that a nation may limit the patentability of a complete organism but that a substantial modification of nature must be patentable (Claudia 2011, p. 59). The CBD however does establish several positive requiremenets for the distribution of revenue from TK. There is a requirement that any corporation that uses IP derived from biological resources do so with the consent of the nation in which it is hosted and also with the prior informed consent of the inventors of the traditional knowledge. (Claudia 2011, p. 59). The CBD requirements, if totally implemented, would seem to provide a rather decent source of defensive protection of traditional knowledge by restriction the patents for which a company can apply to.
+
+The interaction between the convention on biological diveristy and TRIPs has not been completely developed, and many questions have not yet been determined. There are many difficulties assosciated with the actual implementation of a "Prior Informed Consent" system, in particular the questions of 
+-what activities are sufficiently commercial/industry oriented to require PIC
+-who the traditional knowledge holders are
+-who enforces the requirement of PIC/in particular certificates
+are central to the feasibility of a prior informed consent system. A ((UN commisioned/university of the UN)) study indicates that in order for a certificate program to be successful it will require broad acceptance by nations, research groups, and indiginous groups which requires that the "system will need to be flexible, 
+cost effective and easy to implement" (Tobin et al. 2008), and the above limitations indicate this to be infeasible at the moment. In particular, the system must reassure industrial actors that the system will be easy to comply with and will not substantially restrict their abbility to research, even if they must share some of the profits. 
+
+
+
+
 
 A confounding factor is the sovereign claim to posession of IP derived from the biodiversity of its country, many of which have specific legislation regulating the development of commercial products from the biological resources of the nation. For example, the South African Biodiversity Act requires a permit for any bioprospecting with agreeements to share revenue derived from any bioprospecting or for any biological material to be exported for the same reason. (Mueller 2011, p. 396). 
 
@@ -24,3 +70,10 @@ A confounding factor is the sovereign claim to posession of IP derived from the 
 34 Am. Indian L. Rev. 77. Retrieved from http://www.lexisnexis.com/hottopics/lnacademic (Reid 2010) http://goo.gl/rm2YF
 
 35 USCS § 102, UNITED STATES CODE SERVICE, Retrieved from http://www.lexisnexis.com/hottopics/lnacademic
+
+
+( The search for a practical, feasible and cost effective system for certifying compliance with PIC and MAT, By Brendan Tobin, Geoff Burton, and Jose Carlos Fernandez-Ugalde (2008) http://goo.gl/HqQ8G)
+
+Article: Protecting the traditional knowledge and cultural expressions of russia's "numerically-small" indigenous peoples: What has been done, what remains to be done. (2009).
+Claudia, F. (2011). Traditional knowledge and the patent system: Two worlds apart? World Patent Information, 33(1), 58-66. doi:10.1016/j.wpi.2010.03.005
+Note & comment: Because i asked you nicely: Defining prior informed consent under the convention on biological diversity. (2011).
